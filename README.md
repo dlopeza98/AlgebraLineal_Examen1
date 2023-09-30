@@ -4,5 +4,5 @@ En este repositorio puede encontrar:
 
 -El punto uno del examen en el PDF llamado Examen1_1_DemostracionDistanciaHamming.pdf
 
-\n-El punto dos del examen en el Notebook llamado HearthDisease_ClassificationModel.ipynb 
+-El punto dos del examen en el Notebook llamado HearthDisease_ClassificationModel.ipynb 
 
